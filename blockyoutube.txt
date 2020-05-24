@@ -1,0 +1,9 @@
+# This blocklist helps Pi-Hole admin restrict access to youtube and its domains.
+# Curated from sources online.     
+# Last updated: 24 May 2020
+youtube.com
+ytimg.com
+youtu.be
+googlevideo.com
+youtubei.googleapis.com
+youtube-nocookie.com
