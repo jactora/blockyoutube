@@ -16,3 +16,6 @@ youtube-nocookie.com
 netflix.com
 disney.com
 disneyplus.com
+||netflix.com^
+||disney.com^
+||disneyplus.com^
