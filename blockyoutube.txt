@@ -13,3 +13,6 @@ youtube-nocookie.com
 ||googlevideo.com^
 ||youtubei.googleapis.com^
 ||youtube-nocookie.com^
+netflix.com
+disney.com
+disneyplus.com
