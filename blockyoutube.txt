@@ -19,6 +19,13 @@ disneyplus.com
 ||netflix.com^
 ||disney.com^
 ||disneyplus.com^
+||disney-plus.com^
+||disney-plus.net^
+||disney.go.com^
+||registerdisney.go.com^
+||disneyplus.net^
+||disney.bamgrid.com^
+*disney.bamgrid.com^
 *nflxso.net
 *nflxext.com
 *nflximg.com
