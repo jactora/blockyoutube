@@ -13,35 +13,3 @@ youtube-nocookie.com
 ||googlevideo.com^
 ||youtubei.googleapis.com^
 ||youtube-nocookie.com^
-netflix.com
-disney.com
-disneyplus.com
-||netflix.com^
-||disney.com^
-||disneyplus.com^
-*nflxso.net
-*nflxext.com
-*nflximg.com
-*nflxvideo.net
-# sony bavaria
-
-ssm1.internet.sony.tv
-bravia.dl.playstation.net
-api-mf1.meta.ndmdhs.com
-# needed for applications, if blocked error "no internet connection"
-#portal.store.sonyentertainmentnetwork.com
-# needed for applications
-#applicast.ga.sony.net
-sonybivstatic-a.akamaihd.net
-b02.black.ndmdhs.com
-call.me.sel.sony.com
-ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
-ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
-flingo.tv
-
-
-api-global.netflix.com
-ichnaea.netflix.com
-customerevents.netflix.com
-appboot.netflix.com
-nrdp.nccp.netflix.co
